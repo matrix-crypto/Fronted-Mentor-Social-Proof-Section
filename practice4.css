@@ -84,8 +84,7 @@ margin: 0 auto;
     .grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-auto-rows: minmax(224px);/*224px is the largest cell height of the grid */
-    /* grid-template-rows: 1fr 1fr; */
+    grid-auto-rows: minmax(224px);
     height: 60vh;
     box-sizing: border-box;
     width: 1150px;
