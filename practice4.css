@@ -40,7 +40,7 @@ margin: 0 auto;
     
 }
 .star-5{
-    background-image: url(images/icon-star.svg);
+    background-image: url(./images/icon-star.svg);
     background-repeat: space;
     height: 1rem;
     width: 6rem;
